@@ -32,3 +32,5 @@ https://github.com/luizagostinhoms/IBGE-resolucao-javaconsole.git
 
 
 A ídeia é, ao invés de imputar os dados da cidade através do console, eles serão lidos de um arquivo CIDADE.txt, e ficará exposto apenas as opções de relatórios.
+
+O arquivo CIDADE.txt, é separado pelo caracter ";" e a primeira informação corresponde ao código da cidade, a segunda inforamação nome da cidade, a terceira informação é a quantidade de veiculos da cidade, e a quarta a quantidade de vitimas de acidente de transito. 
