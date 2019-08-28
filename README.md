@@ -31,4 +31,4 @@ Versão prévia em Java:
 https://github.com/luizagostinhoms/IBGE-resolucao-javaconsole.git
 
 
-A ídeia é, ao invés de imputar os dados da cidade através do console, eles serão lidos de um arquivo CIDADE.txt, e apenas ficará exposto apenas as opções de relatórios.
+A ídeia é, ao invés de imputar os dados da cidade através do console, eles serão lidos de um arquivo CIDADE.txt, e ficará exposto apenas as opções de relatórios.
